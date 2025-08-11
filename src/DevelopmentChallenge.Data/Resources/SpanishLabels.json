@@ -1,0 +1,26 @@
+[
+  {
+    "key": "EMPTY_SHAPES_RESULT",
+    "value": "Lista vacía de formas!"
+  },
+  {
+    "key": "REPORT_TITLE",
+    "value": "Reporte de formas geométricas"
+  },
+  {
+    "key": "SHAPE_AREA",
+    "value": "Área"
+  },
+  {
+    "key": "SHAPE_PERIMETER",
+    "value": "Perímetro"
+  },
+  {
+    "key": "TOTAL",
+    "value": "Total"
+  },
+  {
+    "key": "SHAPES",
+    "value": "Formas"
+  }
+]

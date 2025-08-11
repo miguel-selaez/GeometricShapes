@@ -1,0 +1,37 @@
+[
+  {
+    "key": "CIRCLE",
+    "entity": {
+      "singular": "Círculo",
+      "plural": "Círculos"
+    }
+  },
+  {
+    "key": "EQUILATERALTRIANGLE",
+    "entity": {
+      "singular": "Triángulo Equilatero",
+      "plural": "Triángulos Equilateros"
+    }
+  },
+  {
+    "key": "RECTANGLE",
+    "entity": {
+      "singular": "Rectángulo",
+      "plural": "Rectángulos"
+    }
+  },
+  {
+    "key": "SQUARE",
+    "entity": {
+      "singular": "Cuadrado",
+      "plural": "Cuadrados"
+    }
+  },
+  {
+    "key": "TRAPEZOID",
+    "entity": {
+      "singular": "Trapecio",
+      "plural": "Trapecios"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "key": "EMPTY_SHAPES_RESULT",
+    "value": "Elenco vuoto di forme!"
+  },
+  {
+    "key": "REPORT_TITLE",
+    "value": "Rapporto sulle forme geometriche"
+  },
+  {
+    "key": "SHAPE_AREA",
+    "value": "Area"
+  },
+  {
+    "key": "SHAPE_PERIMETER",
+    "value": "Perimetro"
+  },
+  {
+    "key": "TOTAL",
+    "value": "Totale"
+  },
+  {
+    "key": "SHAPES",
+    "value": "Forme"
+  }
+]

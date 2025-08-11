@@ -1,0 +1,26 @@
+[
+  {
+    "key": "EMPTY_SHAPES_RESULT",
+    "value": "Empty list of shapes!"
+  },
+  {
+    "key": "REPORT_TITLE",
+    "value": "Shapes report"
+  },
+  {
+    "key": "SHAPE_AREA",
+    "value": "Area"
+  },
+  {
+    "key": "SHAPE_PERIMETER",
+    "value": "Perimeter"
+  },
+  {
+    "key": "TOTAL",
+    "value": "Total"
+  },
+  {
+    "key": "SHAPES",
+    "value": "Shapes"
+  }
+]
