@@ -1,9 +1,8 @@
 # GeometricShapes
-Challenge
 
 ## Explicación de la solución
 
-- La solución está pensada completamente en backend, ya que el requerimiento no especificaba si alguna parte del reporte debía implementarse en el frontend.
+- La solución está pensada completamente en backend y se dividio el requerimiento en dos partes relacionadas.
 
 ### Diagrama
 ![Diagrama de la solución](Proyecto.drawio.png)
